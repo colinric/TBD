@@ -2,25 +2,11 @@ body{
   max-width: 100%;
   overflow:hidden;
 }
-.nav {
-  background-color: #1c59ff;
+nav{
+  background-color: #09a1ed;
   font-size: 105%;
-  border-bottom: 1px solid black;
+  border-bottom: 2px solid black;
 }
-.normalnav{
-  color: white;
-  padding-left:10%;
-}
-.login{
-  position:absolute;
-  right: 10%;
-  color: white;
-}
-.signup{
-  position:absolute;
-  right: 2%;
-  color: white;
-}
-.login:active{
-  color: red;
+.nav-link{
+    color: white;
 }
